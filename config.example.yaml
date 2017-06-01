@@ -1,0 +1,6 @@
+profile-name:
+  host: "es-cluster.com"
+  port: 9243
+  use_ssl: True
+  username: ""
+  password: ""

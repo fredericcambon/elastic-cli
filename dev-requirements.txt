@@ -1,0 +1,5 @@
+yapf==0.7.1
+flake8==2.5.4
+flake8-import-order==0.7
+isort==4.2.5
+docformatter==0.7.1
